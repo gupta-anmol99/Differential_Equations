@@ -18,8 +18,8 @@ $$cos(x) = 1 - \frac{{x^2}}{{2!}} + \frac{{x^4}}{{4!}} - \frac{{x^6}}{{6!}} + \l
 
 * Exponential Function –
 
-$$e^x = \sum_{k=0}^{+\infty} \frac{{x^k}}{{k!}}
+$$e^x = \sum_{k=0}^{+\infty} \frac{{x^k}}{{k!}}$$
 
 ### Euler’s Formula –
 
-$$e^{ix} = cos(x) + isin(x)
+$$e^{ix} = cos(x) + isin(x)$$
